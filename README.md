@@ -8,3 +8,12 @@ This code defines a crawler that retrieves data from the DBLP database, handles 
 
 ## Abstract_crwaler
 This code is designed to take a folder containing CSV files with conference paper titles, search for the corresponding paper abstracts on ArXiv, and save the results in new CSV files with abstracts. It uses multiprocessing to speed up the process by parallelizing the searches for different titles.
+
+## Todo
+### Recommedation system
+1. In the conference recommendation system, the state of the art currently analyzes only keywords and abstracts. We will enhance the analysis by including full-text content.
+2. We can enhance author network identification by considering the conferences the author has previously submitted to, assisting in recommending suitable conferences.
+
+### Web crawler
+1. Due to access limitations on dblp and arXiv, we will add crawler proxies to bypass IP bans.
+2. We will further expand the dataset, which currently includes abstracts from around 20,000 articles from 37 conferences in the CS field from 2020 to 2022. This expansion will encompass more conferences and cover a longer time span.
