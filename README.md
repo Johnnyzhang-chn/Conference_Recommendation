@@ -1,12 +1,18 @@
-# Conference_Recommendation
+# Conference Recommendation System
 
-## Recommendation system
+## Problem Understanding
+We understand the conference recommendation for paper drafts as a text classification problem. In this classification problem, we have data consisting of previously published paper texts (data) and the conferences they were published in (labels). We assume that all papers were submitted to the most suitable conference.
+
+## Task
+Our goal is to process the drafts of papers using natural language processing, where the text serves as input, and obtain the output of one or multiple labels. This task can be divided into the following two parts: training and optimization of the classification model, and acquisition of the dataset.
+
+## Classification Model
 
 ### TextCNN
 
 Script for training a text classification model using convolutional neural networks (CNN) on textual data. It leverages PyTorch for deep learning and provides a flexible structure for training and evaluating text classification models.
 
-## Crawler
+## Data Acquisition
 
 ### Conference_list
 The main purpose of this program is to extract conference names from an Excel file, check their validity (by accessing a specific URL), and write the valid conference names to a text file. Invalid conference names are printed for user review. This is useful for processing a large number of conference names and filtering out the valid ones.
