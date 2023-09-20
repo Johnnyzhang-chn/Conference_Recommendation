@@ -8,6 +8,8 @@ Our goal is to process the drafts of papers using natural language processing, w
 
 ## Classification Model
 
+### SVM
+
 ### TextCNN
 
 Script for training a text classification model using convolutional neural networks (CNN) on textual data. It leverages PyTorch for deep learning and provides a flexible structure for training and evaluating text classification models.
