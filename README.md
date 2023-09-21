@@ -4,7 +4,7 @@
 We understand the conference recommendation for paper drafts as a text classification problem. In this classification problem, we have data consisting of previously published paper texts (data) and the conferences they were published in (labels). We assume that all papers were submitted to the most suitable conference.
 
 ## Task
-Our goal is to process the drafts of papers using natural language processing, where the text serves as input, and obtain the output of one or multiple labels. This task can be divided into the following two parts: training and optimization of the classification model, and acquisition of the dataset.
+Our goal is to process the drafts of papers using natural language processing, where the text serves as input and single conference as label, and obtain the output of one or multiple labels as conference suggestions. This task can be divided into the following two parts: training and optimization of the classification model, and acquisition of the dataset.
 
 ## Classification Model
 
