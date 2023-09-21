@@ -12,7 +12,9 @@ Our goal is to process the drafts of papers using natural language processing, w
 
 Script for training a text classification model using convolutional neural networks (CNN) on textual data. It leverages PyTorch for deep learning and provides a flexible structure for training and evaluating text classification models.
 
-### SVM
+### BERT
+
+Train a text classification model based on the BERT architecture for a Chinese text classification task. It demonstrates how to preprocess data, create custom datasets, build a model, and perform training and evaluation using PyTorch and the Hugging Face Transformers library.
 
 ## Data Acquisition
 
