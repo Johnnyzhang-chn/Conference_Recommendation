@@ -48,9 +48,6 @@ class TextDataset(Dataset):
         batch_embedding = []
         for text,label,len_ in zip(batch_text, batch_label, batch_len):
 
-            # text_index = [word_2_index.get(i, 1) for i in text]  # 中文文本----> index
-            # text_index = text_index + [0] * (batch_max_len- len(text_index))  # 填充
-            # text_embedding = self.index_2_embedding(torch.tensor(text_index))
             text_embedding = self.tokenizer.encode(text,add_special_tokens=True,truncation=True,padding='max_length',max_length=self.max_len+2,return_tensors='pt')
             batch_embedding.append(text_embedding)
         batch_embedding = torch.cat(batch_embedding,dim=0)

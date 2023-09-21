@@ -14,7 +14,7 @@ Script for training a text classification model using convolutional neural netwo
 
 ### BERT
 
-Train a text classification model based on the BERT architecture for a Chinese text classification task. It demonstrates how to preprocess data, create custom datasets, build a model, and perform training and evaluation using PyTorch and the Hugging Face Transformers library.
+Train a text classification model based on the BERT architecture. It demonstrates how to preprocess data, create custom datasets, build a model, and perform training and evaluation using PyTorch and the Hugging Face Transformers library.
 
 ## Data Acquisition
 
