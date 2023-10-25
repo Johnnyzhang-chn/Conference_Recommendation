@@ -1,12 +1,13 @@
 import requests
 import re
 import csv
+import time
 
 class DBLPCrawler:
     def __init__(self):
         self.base_url_default = "https://dblp.org/search/publ/api?q=venue%3A[A]%3Ayear%3A[B]%3A&h=1000&format=json"
         self.base_url_backup = "https://dblp.org/search/publ/api?q=toc:db/conf/[A]/[A][B].bht:%20access:open:&h=1000&format=json"
-        self.headers = {'User-Agent': 'Your User Agent'}
+        self.headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3'}
 
     def validate_input(self, A, B):
         return re.match(r'^[a-z]+$', A) and re.match(r'^\d{4}$', B)
@@ -27,6 +28,9 @@ class DBLPCrawler:
 
                 # Send an HTTP request with default URL
                 response = requests.get(url_default, headers=self.headers)
+
+                # Add a 2-second delay between requests
+                time.sleep(2)  # Wait for 2 seconds between requests
 
                 # Check the response status code
                 if response.status_code == 200:
