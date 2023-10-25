@@ -1,0 +1,101 @@
+Index,Conference,h5,h-median ,CCF,X,Y
+1,[CVPR]IEEE Conference on Computer Vision and Pattern Recognition,422,681,A,CVPR,IEEE Conference on Computer Vision and Pattern Recognition
+2,[ICLR]International Conference on Learning Representations,303,563,-,ICLR,International Conference on Learning Representations
+3,[NeurIPS]Annual Conference on Neural Information Processing Systems,278,436,A,NeurIPS,Annual Conference on Neural Information Processing Systems
+4,[ICML]International Conference on Machine Learning,254,463,A,ICML,International Conference on Machine Learning
+5,[ECCV]European Conference on Computer Vision,238,390,B,ECCV,European Conference on Computer Vision
+6,[ICCV]International Conference on Computer Vision,228,366,A,ICCV,International Conference on Computer Vision
+7,[AAAI]AAAI Conference on Artificial Intelligence,212,344,A,AAAI,AAAI Conference on Artificial Intelligence
+8,[EMNLP]Conference on Empirical Methods in Natural Language Processing,176,302,B,EMNLP,Conference on Empirical Methods in Natural Language Processing
+9,[ACL]Annual Meeting of the Association for Computational Linguistics,169,304,A,ACL,Annual Meeting of the Association for Computational Linguistics
+10,[IJCAI]International Joint Conference on Artificial Intelligence,133,197,A,IJCAI,International Joint Conference on Artificial Intelligence
+11,[ICRA]IEEE International Conference on Robotics and Automation,119,183,B,ICRA,IEEE International Conference on Robotics and Automation
+12,[SIGKDD]ACM Knowledge Discovery and Data Mining,114,196,A,SIGKDD,ACM Knowledge Discovery and Data Mining
+13,"[ICASSP]IEEE International Conference on Acoustics, Speech and SP",110,171,B,ICASSP,"IEEE International Conference on Acoustics, Speech and SP"
+14,[INTERSPEECH]INTERSPEECH,107,162,C,INTERSPEECH,INTERSPEECH
+15,[WWW]International World Wide Web Conferences,106,169,A,WWW,International World Wide Web Conferences
+16,[S&P]IEEE Symposium on Security and Privacy,98,152,A,S&P,IEEE Symposium on Security and Privacy
+17,[USENIX Security]Usenix Security Symposium,92,153,A,USENIX Security,Usenix Security Symposium
+18,[AISTATS]Artificial Intelligence and Statistics,91,148,C,AISTATS,Artificial Intelligence and Statistics
+19,[ICSE]International Conference on Software Engineering,85,121,A,ICSE,International Conference on Software Engineering
+20,[ACM MM]ACM International Conference on Multimedia,84,112,A,ACM MM,ACM International Conference on Multimedia
+21,[INFOCOM]IEEE International Conference on Computer Communications,80,122,A,INFOCOM,IEEE International Conference on Computer Communications
+22,[CIKM]ACM International Conference on Information and Knowledge Management,79,122,B,CIKM,ACM International Conference on Information and Knowledge Management
+23,[VLDB]International Conference on Very Large Data Bases,79,104,A,VLDB,International Conference on Very Large Data Bases
+24,[MICCAI]International Conference on Medical Image Computing and Computer-Assisted Intervention,78,124,B,MICCAI,International Conference on Medical Image Computing and Computer-Assisted Intervention
+25,[IROS]IEEE\RSJ International Conference on Intelligent Robots and Systems,78,137,C,IROS,IEEE\RSJ International Conference on Intelligent Robots and Systems
+26,[BMVC]British Machine Vision Conference,77,128,C,BMVC,British Machine Vision Conference
+27,[ICC]IEEE International Conference on Communications,76,103,C,ICC,IEEE International Conference on Communications
+28,[SIGIR]International Conference on Research on Development in Information Retrieval,75,115,A,SIGIR,International Conference on Research on Development in Information Retrieval
+29,[WSDM]ACM International Conference on Web Search and Data Mining,75,129,B,WSDM,ACM International Conference on Web Search and Data Mining
+30,[COLING]International Conference on Computational Linguistics,73,119,B,COLING,International Conference on Computational Linguistics
+31,[NDSS]ISOC Network and Distributed System Security Symposium,72,146,A,NDSS,ISOC Network and Distributed System Security Symposium
+32,[SIGMOD]ACM Conference on Management of Data,71,101,A,SIGMOD,ACM Conference on Management of Data
+33,[ASPLOS]International Conference on Architectural Support for Programming Languages and Operating Systems,66,99,A,ASPLOS,International Conference on Architectural Support for Programming Languages and Operating Systems
+34,[GLOBECOM]IEEE Global Communications Conference,63,91,C,GLOBECOM,IEEE Global Communications Conference
+35,[STOC]ACM Symposium on the Theory of Computing,61,84,A,STOC,ACM Symposium on the Theory of Computing
+36,[ICIP]International Conference on Image Processing,61,90,C,ICIP,International Conference on Image Processing
+37,[ISCA]International Symposium on Computer Architecture,60,87,A,ISCA,International Symposium on Computer Architecture
+38,[ACCV]Asian Conference on Computer Vision,60,92,C,ACCV,Asian Conference on Computer Vision
+39,[IJCNN]International Joint Conference on Neural Networks,60,96,C,IJCNN,International Joint Conference on Neural Networks
+40,[NSDI]Symposium on Network System Design and Implementation,60,111,A,NSDI,Symposium on Network System Design and Implementation
+41,[DAC]Design Automation Conference,60,80,A,DAC,Design Automation Conference
+42,[CRYPTO]International Cryptology Conference,59,96,A,CRYPTO,International Cryptology Conference
+43,[USENIX ATC]USENIX Annual Technical Conference,59,110,A,USENIX ATC,USENIX Annual Technical Conference
+44,[ICPR]International Conference on Pattern Recognition,58,84,C,ICPR,International Conference on Pattern Recognition
+45,[MICRO]IEEE/ACM International Symposium on Microarchitecture,57,92,A,MICRO,IEEE/ACM International Symposium on Microarchitecture
+46,[SODA]ACM-SIAM Symposium on Discrete Algorithms,57,80,A,SODA,ACM-SIAM Symposium on Discrete Algorithms
+47,[ICDE]IEEE International Conference on Data Engineering,55,76,A,ICDE,IEEE International Conference on Data Engineering
+48,[ICWSM]The International AAAI Conference on Web and Social Media,54,83,B,ICWSM,The International AAAI Conference on Web and Social Media
+49,[HPCA]High Performance Computer Architecture,53,84,A,HPCA,High Performance Computer Architecture
+50,IEEE International Conference on Big Data,53,94,C,IEEE International Conference on Big Data,IEEE International Conference on Big Data
+51,[ICDM]International Conference on Data Mining,52,84,B,ICDM,International Conference on Data Mining
+52,[FOCS]IEEE Annual Symposium on Foundations of Computer Science,52,78,A,FOCS,IEEE Annual Symposium on Foundations of Computer Science
+53,[PLDI]ACM SIGPLAN Conference on Programming Language Design & Implementation,50,78,A,PLDI,ACM SIGPLAN Conference on Programming Language Design & Implementation
+54,[FG]International Conference on Automatic Face and Gesture Recognition,50,91,C,FG,International Conference on Automatic Face and Gesture Recognition
+55,[ASE]International Conference on Automated Software Engineering,50,81,A,ASE,International Conference on Automated Software Engineering
+56,[AAMAS]International Joint Conference on Autonomous Agents and Multi- agent Systems,50,65,B,AAMAS,International Joint Conference on Autonomous Agents and Multi- agent Systems
+57,"[SC]International Conference for High Performance Computing, Networking, Storage, and Analysis",49,70,A,SC,"International Conference for High Performance Computing, Networking, Storage, and Analysis"
+58,[RecSys]ACM Conference on Recommender Systems,49,91,B,RecSys,ACM Conference on Recommender Systems
+59,"[DATE]Design, Automation & Test in Europe",49,64,B,DATE,"Design, Automation & Test in Europe"
+60,[EuroSys]European Conference on Computer Systems,47,76,A,EuroSys,European Conference on Computer Systems
+61,[3DV]International Conference on 3D Vision,47,83,C,3DV,International Conference on 3D Vision
+62,[ICDCS]International Conference on Distributed Computing Systems,47,71,B,ICDCS,International Conference on Distributed Computing Systems
+63,[MSR]Mining Software Repositories,46,61,C,MSR,Mining Software Repositories
+64,[FC]Financial Cryptography and Data Security,46,95,C,FC,Financial Cryptography and Data Security
+65,[IEEE EuroS&P]IEEE European Symposium on Security and Privacy,45,72,C,IEEE EuroS&P,IEEE European Symposium on Security and Privacy
+66,[UAI]International Conference on Uncertainty in Artificial Intelligence,45,77,B,UAI,International Conference on Uncertainty in Artificial Intelligence
+67,[IMC]Internet Measurement Conference,45,73,B,IMC,Internet Measurement Conference
+68,[GECCO]Genetic and Evolutionary Computation Conference,45,60,C,GECCO,Genetic and Evolutionary Computation Conference
+69,[VR]IEEE Virtual Reality,44,55,A,VR,IEEE Virtual Reality
+70,[UIST]ACM Symposium on User Interface Software and Technology,44,62,A,UIST,ACM Symposium on User Interface Software and Technology
+71,[ICCAD]International Conference on Computer-Aided Design,43,57,B,ICCAD,International Conference on Computer-Aided Design
+72,[WCNC]IEEE Wireless Communications & Networking Conference,43,63,C,WCNC,IEEE Wireless Communications & Networking Conference
+73,[CoNLL]Conference on Computational Natural Language Learning,43,66,C,CoNLL,Conference on Computational Natural Language Learning
+74,[ICME]IEEE International Conference on Multimedia & Expo,43,60,B,ICME,IEEE International Conference on Multimedia & Expo
+75,[ASIACRYPT]Annual International Conference on the Theory and Application of Cryptology and Information Security,42,72,B,ASIACRYPT,Annual International Conference on the Theory and Application of Cryptology and Information Security
+76,[SOSP]ACM Symposium on Operating Systems Principles,42,102,A,SOSP,ACM Symposium on Operating Systems Principles
+77,[DIS]ACM Conference on Designing Interactive Systems,41,58,C,DIS,ACM Conference on Designing Interactive Systems
+78,[ISCAS]International Symposium on Circuits and Systems,41,56,C,ISCAS,International Symposium on Circuits and Systems
+79,[ICDAR]International Conference on Document Analysis and Recognition,40,70,C,ICDAR,International Conference on Document Analysis and Recognition
+80,[IUI]ACM International Conference on Intelligent User Interfaces,40,64,B,IUI,ACM International Conference on Intelligent User Interfaces
+81,[ISSTA]International Symposium on Software Testing and Analysis,40,84,A,ISSTA,International Symposium on Software Testing and Analysis
+82,[ISWC]IEEE International Semantic Web Conference,39,59,B,ISWC,IEEE International Semantic Web Conference
+83,"[SANER]International Conference on Software Analysis, Evolution, and Reengineering",39,63,B,SANER,"International Conference on Software Analysis, Evolution, and Reengineering"
+84,[FPGA]ACM/SIGDA International Symposium on Field-Programmable Gate Arrays,39,74,B,FPGA,ACM/SIGDA International Symposium on Field-Programmable Gate Arrays
+85,"[MobiSys]International Conference on Mobile Systems, Applications, and Services",39,65,B,MobiSys,"International Conference on Mobile Systems, Applications, and Services"
+86,[OSDI]USENIX Symposium on Operating Systems Design and Implementations,39,74,A,OSDI,USENIX Symposium on Operating Systems Design and Implementations
+87,[CCS]ACM Conference on Computer and Communications Security,38,54,A,CCS,ACM Conference on Computer and Communications Security
+88,[AsiaCCS]Asia Conference on Computer and Communications Security,38,54,C,AsiaCCS,Asia Conference on Computer and Communications Security
+89,[IPDPS]International Parallel & Distributed Processing Symposium,38,52,B,IPDPS,International Parallel & Distributed Processing Symposium
+90,[FAST]Conference on File and Storage Technologies,38,60,A,FAST,Conference on File and Storage Technologies
+91,[CAV]Computer Aided Verification,38,56,A,CAV,Computer Aided Verification
+92,[SOUPS]Symposium On Usable Privacy and Security,37,55,C,SOUPS,Symposium On Usable Privacy and Security
+93,[SDM]SIAM International Conference on Data Mining,37,59,B,SDM,SIAM International Conference on Data Mining
+94,[DSN]International Conference on Dependable Systems and Networks,37,51,B,DSN,International Conference on Dependable Systems and Networks
+95,Advances in Social Networks Analysis and Mining,36,53,-,Advances in Social Networks Analysis and Mining,Advances in Social Networks Analysis and Mining
+96,[SenSys]ACM Conference on Embedded Networked Sensor Systems,36,50,B,SenSys,ACM Conference on Embedded Networked Sensor Systems
+97,[ASP-DAC]Asia and South Pacific Design Automation Conference,36,46,C,ASP-DAC,Asia and South Pacific Design Automation Conference
+98,[ICSME]International Conference on Software Maintenance and Evolution,35,52,B,ICSME,International Conference on Software Maintenance and Evolution
+99,"[TrustCom]IEEE International Conference on Trust, Security and Privacy in Computing and Communications",35,55,C,TrustCom,"IEEE International Conference on Trust, Security and Privacy in Computing and Communications"
+100,[SoCC]ACM Symposium on Cloud Computing,35,54,B,SoCC,ACM Symposium on Cloud Computing
